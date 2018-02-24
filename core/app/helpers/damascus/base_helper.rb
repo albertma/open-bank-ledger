@@ -1,0 +1,2 @@
+module Damascus::BaseHelper
+end

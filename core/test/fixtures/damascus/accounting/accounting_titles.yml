@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  accounting_code: MyString
+  accounting_name: MyString
+  accounting_level: MyString
+  parent_title_code: MyString
+  status: 1
+  accounting_type: 1
+  create_user: MyString
+  update_user: MyString
+  balance_direction: 1
+  negativeable: false
+  currency_type: MyString
+  memo: MyString
+  scope_type: MyString
+  has_account: false
+  organization_type: MyString
+
+two:
+  accounting_code: MyString
+  accounting_name: MyString
+  accounting_level: MyString
+  parent_title_code: MyString
+  status: 1
+  accounting_type: 1
+  create_user: MyString
+  update_user: MyString
+  balance_direction: 1
+  negativeable: false
+  currency_type: MyString
+  memo: MyString
+  scope_type: MyString
+  has_account: false
+  organization_type: MyString
